@@ -45,7 +45,7 @@ class BookAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 ![alt text](<Screenshot 2024-03-06 204034.png>)
-
+![alt text](book.jpeg)
 
 
 ## RESULT
